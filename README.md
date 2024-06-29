@@ -26,7 +26,7 @@ Excited to share my latest project! I've created a currency converter web app us
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Umapathi-Mailapalli002/Currency-Converter]
+   git clone https://github.com/Umapathi-Mailapalli002/Currency-Converter
    ```
 
 2. Navigate into the project directory:
