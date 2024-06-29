@@ -26,12 +26,12 @@ Excited to share my latest project! I've created a currency converter web app us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Umapathi-Mailapalli002/Currency-Converter
+   git clone https://github.com/Umapathi-Mailapalli002/Currency-Converter.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd currency-converter
+   cd Currency-Converter
    ```
 
 3. Install dependencies:
